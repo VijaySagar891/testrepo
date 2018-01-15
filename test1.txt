@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Conflict changes
+=======
+Some changes in master
+>>>>>>> 811f0e78b1be5dd365e06d722c753bac3ad2c627
